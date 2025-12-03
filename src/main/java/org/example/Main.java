@@ -1,3 +1,11 @@
+/*
+ * Trabalho Prático - Sistema de Estacionamento
+ * Nota sobre uso de IA:
+ * Parte da estruturação do código e correções de sintaxe foram
+ * desenvolvidas com o auxílio de Inteligência Artificial (Gemini),
+ * sob supervisão e revisão dos integrantes do grupo.
+ */
+
 package org.example;
 
 import java.time.LocalDateTime;
